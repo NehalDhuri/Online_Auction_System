@@ -12,3 +12,16 @@
     width: 20vw;
     height: 20vh;
 } */
+
+.form-select {
+    display: inline;
+    width: 10vw;
+    margin-left: 5px;
+}
+
+.container-sm{
+    /* margin-top: 15px; */
+    width: 50%;
+    margin: 15px auto ;
+    padding: 0px 2vw;
+}
