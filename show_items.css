@@ -1,0 +1,45 @@
+.main{
+    height: auto;
+}
+
+.cards{
+    margin: 30px;
+    height: auto;
+    padding-bottom: 30px;
+}
+
+/* .card{
+    width: 20vw;
+    height: 20vh;
+} */
+
+.form-select {
+    display: inline;
+    width: 10vw;
+    margin-left: 5px;
+}
+
+.container-sm{
+    display: flex;
+    width: 50%;
+    margin: 15px auto;
+    padding: 0px 2vw;
+    justify-content: center;
+}
+
+
+.badge {
+    margin-bottom: .5rem;
+}
+
+#addBtn {
+    color: white;
+}
+
+.btn{
+    /* margin: 0px auto; */
+    text-align: center;
+}
+.mybtn-primary{
+    margin-bottom: 5vh;
+}
