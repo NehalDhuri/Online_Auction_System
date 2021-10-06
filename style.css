@@ -1,3 +1,15 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .navbar-brand {
     font-size: 1.55rem;
+}
+
+.nav-item{
+    font-size: 18px;
+}
+
+.navbar-collapse{
+    margin-left: 12px;
 }
